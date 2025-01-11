@@ -45,4 +45,4 @@ Feel free to fork this project and submit pull requests. If you have any suggest
 
 ## Author
 
-- **Ntokozo** - [Your GitHub Username](https://github.com/yourusername)
+- **Ntokozo** - [tkntsh](https://github.com/yourusername)
